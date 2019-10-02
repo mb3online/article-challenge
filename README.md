@@ -42,7 +42,7 @@ Here are the requirements for this exercise:
 
 The goal here is to casually evaluate your skills; not to stress you out. Please do not spend more than 4 hours on this exercise and try not to focus too long on a single requirement. You can always ask questions by either [submitting an issue through github](https://github.com/mb3online/article-challenge/issues/new) or by emailing our technical interviewer Eric ([eric.adamski [AT] mb3online.com](mailto:eric.adamski@mb3online.com)). We do not focus on the quality of the solution and we do not put any weight on the runtime of the final result.
 
-Please place comments within your code so we can better understand your thought process as you are completing the task. If you cannot get past a certain requirement and have attempted to reach out for clarification or assistance please lease inline code comments explaining your thoughts on why your attempts did not succeed.
+Please place comments within your code so we can better understand your thought process as you are completing the task. If you cannot get past a certain requirement and have attempted to reach out for clarification or assistance please leave inline code comments explaining your thoughts on why your attempts did not succeed.
 
 # Submission
 
