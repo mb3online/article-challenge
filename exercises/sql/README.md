@@ -44,6 +44,6 @@ This exercise is for us to get a better understanding of what level of skill you
 
 3. Write a query that lists the models where there is no inventory available
 
-4. Write an SQL script that allows the user to add new orders to the inventory. The script user should be able to provide the model name, color, quantity and SalesPerson to perform the update.
+4. Write a SQL __script__ that can be used to add vehicle Inventory.  The script should be able to add any combination of model, color, quantity and SalesPerson
 
 You should have _at least_ one `.sql` file but you can include more files.
